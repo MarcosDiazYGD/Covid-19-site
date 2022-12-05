@@ -3,7 +3,7 @@ import React from 'react';
 const Header = ({video, title, description}) => {
   return (
     <div className='Header'>
-      <video autoPlay loop onLoadedMetadata={'this.muted=true'} className='Header--video'>
+      <video autoPlay loop muted className='Header--video'>
         <source src={video}/>
       </video>
       <div className='overlay'></div>
