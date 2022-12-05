@@ -1,0 +1,34 @@
+{
+  "home-title": "consulte la informacion referente al covid-19 en diferentes paises",
+  "home-description": "La informacion compartida en este sitio web proviene de la API publica de COVID TRACKING",
+  "home-history-title": "Historia",
+  "home-history-text": "En diciembre de 2019, se reportaron en la provincia de Hubei, China, una serie de casos de pacientes hospitalizados con una nueva enfermedad caracterizada por neumonía e insuficiencia respiratoria, debido a un nuevo coronavirus (SARS-CoV-2). El 11 de febrero de 2020, la Organización Mundial de la Salud nombró a este agente etiológico como COVID-19 (Coronavirus Disease, 2019). Posteriormente, ya pesar de las amplias medidas de contención, la enfermedad ha seguido avanzando afectando al resto de países de Asia, Oriente Medio y Europa. El 11 de marzo, Tedros Adhanom Ghebreyesus, director general de la Organización Mundial de la Salud, declaró la pandemia de COVID-19 en una conferencia de prensa mundial.",
+
+  "home-symptoms-title": "Síntomas",
+  
+  "home-symptoms-TMC": "Los sintomas mas comunes son los siguientes:",
+  "home-symptoms-TMC-first": "fiebre",
+  "home-symptoms-TMC-second": "tos",
+  "home-symptoms-TMC-third": "fatiga",
+  "home-symptoms-TMC-fourth": "perdida del gusto o del olfato",
+
+  "home-symptoms-TLC": "Los síntomas menos comunes son los siguientes:",
+  "home-symptoms-TLC-first": "dolor de garganta",
+  "home-symptoms-TLC-second": "Erupción cutánea o decoloración de los dedos de las manos o de los pies Ojos rojos o irritados",
+  "home-symptoms-TLC-third": "Dolor de cabeza",
+  "home-symptoms-TLC-fourth": "achaques",
+  "home-symptoms-TLC-fifth": "diarrea",
+
+  
+  "home-symptoms-S": "Los síntomas graves son los siguientes:",
+  "home-symptoms-S-first": "dificultad para respirar o disnea",
+  "home-symptoms-S-second": "perdida de movilidad o del habla o sensacion de confusión",
+  "home-symptoms-S-third": "Dolor de pecho",
+
+  "home-whatShould-title": "¿Qué debo hacer si me siento enfermo?",
+  "home-whatShould-first": "Busque atención médica de inmediato si tiene alguno de estos síntomas graves. Siempre debe llamar a su médico o centro de salud antes de acudir al lugar en cuestión.",
+  "home-whatShould-second": "Se recomienda que las personas que padezcan síntomas leves y tengan un buen estado general de salud se confinen en casa.",
+  "home-whatShould-third": "En promedio, las personas infectadas comienzan a mostrar síntomas dentro de los 5 a 6 días posteriores a la infección, pero pueden demorar hasta 14."
+  
+  
+}
